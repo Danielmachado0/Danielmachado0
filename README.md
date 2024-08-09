@@ -1,16 +1,16 @@
-## Hi there 👋
+## ola, Boas vindas ao meu perfil 👋 🫀
 
-<!--
-**Danielmachado0/Danielmachado0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Daniel Machado
 
-Here are some ideas to get you started:
+- Estou estudando na [ALURA](https://www.alura.com.br)
+- Estou curtindo muito essas aulas 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo pelo 📪
+
+ 00001120165702sp@al.educacao.sp.gov.br
+ 
+ @daniel968rodrigues
+
+ ![](https://media1.tenor.com/m/L623KhWWoHIAAAAC/rengoku.gif)
+
+ ![]()
